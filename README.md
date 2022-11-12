@@ -45,13 +45,13 @@ Some curves from the Main Notebook
 Green : Positive comments</em>
 </p>
 <p align="center">
-    <img src="photos/picture1.png" alt="Logo">
+    <img src="Photos/Picture1.png" alt="Logo">
   &nbsp
   &nbsp
-    <img src="photos/picture3.png" alt="Logo">
+    <img src="Photos/Picture3.png" alt="Logo">
   &nbsp
   &nbsp
-    <img src="photos/picture2.png" alt="Logo">
+    <img src="Photos/Picture2.png" alt="Logo">
 </p>
 <p align="center">
 <em>
