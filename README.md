@@ -3,8 +3,8 @@
 
 Sentiment Analysis of Africans on the Subject of "Blood Donation"
 
-
-
+<a href="https://github.com/KamgangAnthony/NLP-Analysis-Social-Media-Comments/blob/master/MainNotebook_NotebookPrincipal.ipynb"> Notebook principal | Main Notebook
+</a>
 
 ```sh
 * I scraped 1500+ comments from Facebook, performed sentiment analysis on them, and plotted the results 
